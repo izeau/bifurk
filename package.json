@@ -1,0 +1,10 @@
+{
+  "name": "bifurk",
+  "version": "1.0.0",
+  "description": "Quick & dirty Brainfuck interpreter",
+  "bin": "bin.js",
+  "keywords": ["brainfuck", "interpreter"],
+  "author": "Jean Dupouy <jean.dupouy@rednet.io>",
+  "repository": "izeau/bifurk",
+  "license": "MIT"
+}
